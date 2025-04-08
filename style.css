@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+form {
+    margin-bottom: 20px;
+}
+label {
+    display: block;
+    margin: 10px 0 5px;
+}
+input, select, button {
+    padding: 5px;
+    width: 100%;
+    max-width: 300px;
+    content-visibility: auto;
+}
+.result {
+    font-weight: bold;
+    margin-top: 10px;
+}
